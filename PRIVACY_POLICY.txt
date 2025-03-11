@@ -1,0 +1,52 @@
+Privacy Policy for  Tasbeeh Counter (Digital) App
+
+Effective Date: 11-03-2025
+
+Introduction
+
+Thank you for using  Tasbeeh Counter (Digital)(the "App"). We are committed to protecting your privacy. This Privacy Policy outlines how we handle information in our App, which collects no personal data.
+
+Information We Collect
+
+ Tasbeeh Counter (Digital) App does not collect any personally identifiable information (PII). This includes, but is not limited to:
+
+Names: musaidkhan
+Addresses: indian
+Email addresses:musaidkhan0000@gmail.com
+Phone numbers:**********
+Usage data beyond the internal counter value.
+The App solely functions as a counter, incrementing a number displayed on the screen when a button is pressed and resetting it when another button is pressed. The counter value is stored locally on your device and is not transmitted to us or any third parties.
+
+Permissions
+
+Tasbeeh Counter (Digital) does not request or require any permissions from your device.
+
+Third-Party Services
+
+Tasbeeh Counter (Digital) does not use any third-party services, APIs, or SDKs that collect or process user data.
+
+Data Security
+
+Since no personal data is collected, there is no risk of data breaches or unauthorized access. The counter value is stored locally on your device and is subject to the security measures of your device's operating system.
+
+Children's Privacy
+
+Tasbeeh Counter (Digital) is intended for general audiences and does not knowingly collect any information from children under the age of 13.
+
+Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. Changes are effective immediately upon posting.   
+
+Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+musaidkhan00000@gmail.com
+
+Explanation:
+
+Simplicity and Clarity: The policy is written in plain language, emphasizing the app's minimal data handling.
+No Data Collection: It explicitly states that no personal data is collected, reinforcing user trust.
+No Permissions: It highlights the lack of permission requests, further assuring users of privacy.
+Local Storage: It clarifies that the counter value is stored locally, emphasizing user control.
+Contact Information: Providing an optional contact email allows users to reach out with questions.
